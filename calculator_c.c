@@ -1,6 +1,7 @@
 void Main()
 {
 printf("Hallo");
+printf("New Line");
 int a = 2;
 int b = 3;
 int c = 2 + 3;
